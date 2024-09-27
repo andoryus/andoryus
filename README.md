@@ -1,22 +1,20 @@
 # Hello, I'm Andrew
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate student in Cyber Security, deeply interested in protecting digital infrastructures and solving complex security problems. My hands-on experience with various security tools and enthusiasm for learning new technologies have prepared me for a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am an undergraduate student in Cyber Security with a passion for protecting digital infrastructures and solving complex security problems. I am currently developing my expertise in various cybersecurity domains and aiming to transition into a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Objective
 
-I aim to leverage my knowledge of network security, incident response, and security automation to contribute to an SOC as a Tier 1 Analyst, focusing on threat detection, analysis, and response.
+To apply my growing knowledge of cybersecurity in a Tier 1 SOC Analyst role, where I can contribute to threat detection, analysis, and response efforts.
 
 ## Skills
 
 | Skill                                         | Associated Project                                      |
 |-----------------------------------------------|---------------------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://detectionlab.project">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://detectionlab.project">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://socautomation.project">SOC Automation Lab</a> |
-| Incident Response Planning and Execution      | <a href="https://socautomation.project">SOC Automation Lab</a> |
-| Case Management with TheHive                  | <a href="https://socautomation.project">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://socautomation.project">SOC Automation Lab</a> |
+| [Your Skill Here]                             | [Link to your project here]                             |
+| [Your Skill Here]                             | [Link to your project here]                             |
+| [Your Skill Here]                             | [Link to your project here]                             |
+| [Your Skill Here]                             | [Link to your project here]                             |
 
 ## Tools
 
@@ -46,10 +44,8 @@ I aim to leverage my knowledge of network security, incident response, and secur
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
-- <a href="https://detectionlab.project">Detection Lab</a>
-- <a href="https://socautomation.project">SOC Automation Project</a>
+- [Project Name]
+- [Project Name]
