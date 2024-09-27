@@ -41,7 +41,12 @@ To apply my growing knowledge of cybersecurity in a Tier 1 SOC Analyst role, whe
 ## Certifications
 
 <div> 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux%2B-009639?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-CySA%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Linux%2B-009639?&style=for-the-badge&logo=Linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CySA%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CISSP-2C2C2C?&style=for-the-badge&logo=ISC%202&logoColor=white" /> 
 </div>
 
 ## Projects
